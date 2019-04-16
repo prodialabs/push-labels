@@ -3,9 +3,9 @@
 ## Usage
 
 ```
-$ node index [access token] [labels file]
+$ node index [access token] [repo]
 ```
 
 ```
-$ node index xxx labels.json
+$ node index xxxxxx ovsoinc/yacdn
 ```
