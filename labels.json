@@ -1,0 +1,30 @@
+[
+  { "name": "bug", "color": "#EE3F46" },
+  { "name": "security", "color": "#EE3F46" },
+  { "name": "production", "color": "#F45D43" },
+
+  { "name": "chore", "color": "#fef2c0" },
+  { "name": "legal", "color": "#fef2c0" },
+
+  { "name": "copy", "color": "#FFC274" },
+  { "name": "design", "color": "#FFC274" },
+  { "name": "ux", "color": "#FFC274" },
+
+  { "name": "staging", "color": "#fad8c7" },
+  { "name": "test", "color": "#fad8c7" },
+
+  { "name": "discussion", "color": "#cc317c" },
+  { "name": "rfc", "color": "#cc317c" },
+  { "name": "question", "color": "#cc317c" },
+
+  { "name": "enhancement", "color": "#5EBEFF" },
+  { "name": "optimization", "color": "#5EBEFF" },
+  { "name": "coverage", "color": "#5EBEFF" },
+
+  { "name": "feature", "color": "#91ca55" },
+
+  { "name": "invalid", "color": "#D2DAE1" },
+  { "name": "wontfix", "color": "#D2DAE1" },
+  { "name": "duplicate", "color": "#D2DAE1" },
+  { "name": "on hold", "color": "#D2DAE1" }
+]
